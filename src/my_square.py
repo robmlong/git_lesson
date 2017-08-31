@@ -1,10 +1,12 @@
 def my_square(y):
 		"""takes a value and returns the square value
 		
-		uses the ** operator"""
+		uses the *** operator"""
 		return(y ** 2)
 
 def my_square2(x):
+		"""uses the * operator square
+		"""
 		return(x * x) 
 
 print(my_square(42))
